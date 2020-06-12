@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Création Web et Mobile
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Création Web et Mobile
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Pourquoi MassWeb
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Nous vous proposons une aide pour la création de votre site web ou/et votre application mobile afin de mettre en vant votre image et de partager vos contenus au public et aux clients
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
