@@ -3,7 +3,7 @@ templateKey: index-page
 title: Création Web et Mobile
 image: /img/home-jumbotron.jpg
 heading: Création Web et Mobile
-subheading: Oyez visible et attractif sur le web
+subheading: Soyez visible et attractif sur le web
 mainpitch:
   title: Pourquoi nous solliciter ?
   description: >
