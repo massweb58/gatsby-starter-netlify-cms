@@ -7,12 +7,13 @@ subheading: Soyez visible et attractif sur le web
 mainpitch:
   title: Pourquoi nous solliciter ?
   description: >
-    Nous vous proposons une aide pour la création de votre site web ou/et votre application mobile afin de mettre en avant votre image et de partager vos contenus au plus grand nombre. Nous vous aiderons dans votre stratégie de communication.
+    Nous vous proposons une aide pour la création de votre site web ou/et votre application mobile afin de mettre en avant votre image et de partager vos contenus au plus grand nombre. 
+    Nous vous aiderons dans votre stratégie de communication.
+    Nous pourrons voir avec vous les fonctionnalités dont vous avez besoin pour vous aider dans votre projet.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  ktgkerhtg eroihgerkhgerkg er gheroihgikhgierhgoh ergoerjhg oi erhg
+  eriugheirughierugh eiurghuioerhg
+  erigh eirughioeurhgiouerhgiouerhgiu
 intro:
   blurbs:
     - image: /img/coffee.png
