@@ -3,7 +3,7 @@ templateKey: index-page
 title: Création Web et Mobile
 image: /img/home-jumbotron.jpg
 heading: Création Web et Mobile
-subheading: Support sustainable farming while enjoying a cup
+subheading: Oyez visible et attractif sur le web
 mainpitch:
   title: Pourquoi MassWeb
   description: >
