@@ -70,7 +70,7 @@ const Navbar = class extends React.Component {
                 Blog
               </Link>*/}
               <Link className="navbar-item" to="/contact">
-                Contactez-nous dfd
+                Contactez-nous tototo
               </Link>
               {/*<Link className="navbar-item" to="/contact/examples">
                 Form Examples
