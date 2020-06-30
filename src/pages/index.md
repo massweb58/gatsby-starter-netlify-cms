@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Création Web et Mobile
-image: /img/logomw.jpg
+image: /img/chemex.jpg
 heading: Création Web et Mobile
 subheading: Solution adapté à vos besoins
 mainpitch:
@@ -9,7 +9,7 @@ mainpitch:
   description: >
     Nous vous proposons une aide pour:
 
-    - la création de votre site web afin de mettre en avant votre image et de proposer vos services au plus grand nombre. 
+    - la création de votre site web afin de mettre en avant votre image et de proposer vos services au plus grand nombre.
 
     - mettre en place votre application mobile pour avoir atteindre les utilisateurs mobiles et avoir un accès simplifié à vos fonctionnalités.
 
