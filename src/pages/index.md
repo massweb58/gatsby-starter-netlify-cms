@@ -5,7 +5,7 @@ image: /img/chemex.jpg
 heading: Création Web et Mobile
 subheading: Solution adapté à vos besoins
 mainpitch:
-  title: Pourquoi nous solliciter ?
+  title: Pourquoi nous solliciter ??
   description: >
     Nous vous proposons une aide pour:
 
