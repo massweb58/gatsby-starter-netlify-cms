@@ -5,18 +5,18 @@ image: /img/chemex.jpg
 heading: Web et Mobile
 subheading: Solution adapté à vos besoins
 mainpitch:
-  title: Pourquoi nous solliciter ??
+  title: Pourquoi nous solliciter ?
   description: >-
     Nous vous proposons une aide pour:
 
 
-    **\* la création de votre site web** afin de mettre en avant votre image et de proposer vos services au plus grand nombre.
+    * la création de votre site web afin de mettre en avant votre image et de proposer vos services au plus grand nombre.
 
 
-    \* l**a mise en place de votre application mobile** pour atteindre les utilisateurs mobiles et avoir un accès simplifié à vos fonctionnalités.
+    * la mise en place de votre application mobile pour atteindre les utilisateurs mobiles et avoir un accès simplifié à vos fonctionnalités.
 
 
-    **\* la création de solutions web intranet ou extranet** pour informatiser votre gestion interne.
+    * la création de solutions web intranet ou extranet pour informatiser votre gestion interne.
 
 
     Nous pourrons voir avec vous les fonctionnalités dont vous avez besoin pour vous aider dans votre projet.
