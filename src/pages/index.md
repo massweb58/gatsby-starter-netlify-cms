@@ -19,7 +19,7 @@ mainpitch:
     * la création de solutions web intranet ou extranet pour informatiser votre gestion interne.
 
 
-    Nous pourrons voir avec vous les fonctionnalités dont vous avez besoin pour vous aider dans votre projet.
+    Nous étudierons avec vous les fonctionnalités dont vous avez besoin pour vous aider dans votre projet.
 intro:
   blurbs: []
   heading: What we offer
