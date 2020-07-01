@@ -2,7 +2,7 @@
 templateKey: index-page
 title: "Création Web et Mobile "
 image: /img/chemex.jpg
-heading: MassWeb
+heading: Web et Mobile
 subheading: Solution adapté à vos besoins
 mainpitch:
   title: Pourquoi nous solliciter ??
