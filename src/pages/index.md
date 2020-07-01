@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Création Web et Mobile
+title: "Création Web et Mobile "
 image: /img/chemex.jpg
 heading: Création Web et Mobile
 subheading: Solution adapté à vos besoins
