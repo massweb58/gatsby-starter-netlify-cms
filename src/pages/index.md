@@ -6,17 +6,18 @@ heading: Création Web et Mobile
 subheading: Solution adapté à vos besoins
 mainpitch:
   title: Pourquoi nous solliciter ??
-  description: >
+  description: >-
     Nous vous proposons une aide pour:
 
-    - la création de votre site web afin de mettre en avant votre image et de proposer vos services au plus grand nombre.
 
-    - mettre en place votre application mobile pour avoir atteindre les utilisateurs mobiles et avoir un accès simplifié à vos fonctionnalités.
+    * **la création de votre site web** afin de mettre en avant votre image et de proposer vos services au plus grand nombre.
 
-    - Solution d'application web intranet ou extranet pour informatiser votre gestion et votre workflow interne.
+    * l**a mise en place de votre application mobile** pour atteindre les utilisateurs mobiles et avoir un accès simplifié à vos fonctionnalités.
+
+    * **la création de solutions web intranet ou extranet** pour informatiser votre gestion interne.
 
 
-    Nous vous aiderons dans votre stratégie de communication. Nous pourrons voir avec vous les fonctionnalités dont vous avez besoin pour vous aider dans votre projet.
+    Nous pourrons voir avec vous les fonctionnalités dont vous avez besoin pour vous aider dans votre projet.
 description: jjtyjtyjtyj
 intro:
   blurbs: []
