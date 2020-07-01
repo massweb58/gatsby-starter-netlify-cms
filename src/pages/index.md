@@ -2,12 +2,23 @@
 templateKey: index-page
 title: "Création Web et Mobile "
 image: /img/chemex.jpg
-heading: Création Web et Mobile
+heading: MassWeb
 subheading: Solution adapté à vos besoins
 mainpitch:
   title: Pourquoi nous solliciter ??
   description: >-
     Nous vous proposons une aide pour:
+
+
+    ```html
+
+    <ul>
+      <li>la création de votre site web afin de mettre en avant votre image et de proposer vos services au plus grand nombre.</li>
+      <li>la mise en place de votre application mobile pour atteindre les utilisateurs mobiles et avoir un accès simplifié à vos fonctionnalités.</li>
+      <li>la création de solutions web intranet ou extranet pour informatiser votre gestion interne.</li>
+    </ul>
+
+    ```
 
 
     * **la création de votre site web** afin de mettre en avant votre image et de proposer vos services au plus grand nombre.
