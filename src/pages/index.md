@@ -18,7 +18,7 @@ mainpitch:
 
 
     Nous pourrons voir avec vous les fonctionnalités dont vous avez besoin pour vous aider dans votre projet.
-description: jjtyjtyjtyj
+description: ""
 intro:
   blurbs: []
   heading: What we offer
